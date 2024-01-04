@@ -13,3 +13,8 @@ Show Contacts: View all contacts associated with the logged-in user.
 Delete Contact: Remove a contact based on email.
 Update Contact: Modify existing contact details.
 Search Contact: Find a contact based on the email.
+
+Note: Create a Users file before running the code.
+
+
+
